@@ -8,13 +8,13 @@ presentar el documento final.
 
 :one: Se confunde la cita textual con la contextual
 
-	El error: 
+El error: 
 	
-	> Para (Perez,2008) la desigualdad social se debe a.....
+	:x: Para (Perez,2008) la desigualdad social se debe a.....
 	
-	Lo correcto: 
+Lo correcto: 
 	
-	> Para Perez (2008) la desigualdad social se debe a.....
+	:+1: Para Perez (2008) la desigualdad social se debe a.....
 	
 :two: Reemplazar una parte del texto con un gráfico. Además, el gráfico no es citado
 en ninguna parte del texto. Se debe considerar que el documento puede ser leido 
@@ -22,16 +22,16 @@ por personas no vidente ayudados de una herramienta que traduce el texto en audi
 
 :three: Usar la coma para separar el sujeto del predicado.
 
-	El error: 
+El error: 
 	
-	> Las desigualdades sociales en los pueblos indigenas ecuatorianos, se debe a la corrupción.
+	:x: Las desigualdades sociales en los pueblos indigenas ecuatorianos, se debe a la corrupción.
 	
-	En esta oración la coma no puede ir antes del verbo.
+	:eyes: En esta oración la coma no puede ir antes del verbo.
 	
-	Lo correcto: 
+Lo correcto: 
 	
-	> Las desigualdades sociales en los pueblos indigenas ecuatorianos se debe a la corrupción..
+	:+1: Las desigualdades sociales en los pueblos indigenas ecuatorianos se debe a la corrupción..
 	
 :four: En los títulos va con mayúscula unicamente la primera letra de la primera palabra
 
-:fice: Las plalabras en mayúscula también llevan tíldes.
+:five: Las plalabras en mayúscula también llevan tíldes.
